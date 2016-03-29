@@ -19,7 +19,12 @@
 	Step 3: append THC and VC together
 -----------------------------------------------------------*/
 
-clear all
+
+dsjtatasekjjnai janj//add 
+
+adsjnjfanf 
+
+clear all eibabefi 
 set more off
 capture log close
 
