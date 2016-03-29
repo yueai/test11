@@ -20,9 +20,9 @@
 -----------------------------------------------------------*/
 
 
-dsjtatasekjjnai janj//add 
 
-adsjnjfanf 
+
+ 
 
 clear all eibabefi 
 set more off
