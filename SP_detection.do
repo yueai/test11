@@ -52,8 +52,6 @@ gen corr_dete_1=.
 
 
 //age and symptoms
-tab thc_de_Q2_1_6,m
-list thc_de_Q2_1* if thc_de_Q2_1_6==4
 replace corr_dete_1=0 if thc_de_Q2_1_6==4
 
 //visit time and symptoms
