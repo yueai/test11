@@ -37,9 +37,7 @@ cd "/Users/apple/Dropbox/SP_project_data/merge and double check/double check/det
 use thc_detection_clean.dta,replace
 
 // use "/Users/apple/Dropbox/SP project data/merge and double check/double check/detection survey/vc_detection/"
-keep thc_de_docname-thc_de_Q2_2_12a thc_de_Q2_1_7_1-thc_de_Q2_2_7_10
 
-tab thc_de_Q2_1 thc_de_Q2_2,m 
 //33 doctor think have received 1 SP and 12 doctor think have recevied 2 SPs
 
 /*
